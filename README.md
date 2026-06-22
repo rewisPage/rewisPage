@@ -13,7 +13,9 @@ I focus on building functional, maintainable software. My core tools include:
 I've spent the last year working on a variety of projects, ranging from academic capstones to standalone utilities:
 
 *   **Integrated Sales and Inventory Management System (SJ PC Store):** A C#-based system designed to streamline business operations with a focus on data flow and entity-relationship management.
+
 ![Image](https://github.com/user-attachments/assets/54b5cfd5-e0e1-45e6-a5d5-3b0d9ac20ac7)
+
 *   **Battle Hangpies:** A project exploring OOP principles, using Java AWT and text file storage for an interactive word-guessing game.
 
 ### 🛠️ Hardware Philosophy
