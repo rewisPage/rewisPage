@@ -18,6 +18,8 @@ I've spent the last year working on a variety of projects, ranging from academic
 
 *   **Battle Hangpies:** A project exploring OOP principles, using Java AWT and text file storage for an interactive word-guessing game.
 
+![Image2](https://github.com/user-attachments/assets/bba96871-05f0-41fc-8fbe-d91295f72e33)
+
 ### 🛠️ Hardware Philosophy
 Outside of coding, I spend a lot of time researching PC hardware. I prioritize performance and system longevity—I am a strong advocate for high-airflow setups over RGB aesthetics and believe in investing in upgradeable platforms like AM5 to ensure my development rig stays relevant for years to come.
 
