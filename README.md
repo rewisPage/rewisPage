@@ -16,8 +16,8 @@ I've spent the last year working on a variety of projects, ranging from academic
 
 ![Image](https://github.com/user-attachments/assets/54b5cfd5-e0e1-45e6-a5d5-3b0d9ac20ac7)
 
-*   **Battle Hangpies:** A project exploring OOP principles, using Java AWT and text file storage for an interactive word-guessing game.
-
+*   **Battle Hangpies:** A Java-based mini-capstone project developed as an integrated text-console business management system combined with a graphical user interface (GUI) word-guessing battle game. The system is designed to showcase core competencies in Object-Oriented Programming (OOP) concepts, fundamental Data Structures and Algorithms (DSA), and flat text-file data persistence.
+  
 ![Image2](https://github.com/user-attachments/assets/bba96871-05f0-41fc-8fbe-d91295f72e33)
 
 ### 🛠️ Hardware Philosophy
