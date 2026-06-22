@@ -7,7 +7,7 @@ I am a student and software developer from Philippines, passionate about buildin
 ### 💻 My Tech Stack
 I focus on building functional, maintainable software. My core tools include:
 *   **Languages:** Java, C#, HTML, CSS, Javascript, SQL
-*   **Frameworks & Tools:** .NET (WinForms), Flutter, SQL Server Management Studio (SSMS), Firebase
+*   **Frameworks & Tools:** .NET (WinForms), Flutter, SQL Server Management Studio (SSMS), Firebase, Android Studio
 
 ### 🚀 Featured Projects
 I've spent the last year working on a variety of projects, ranging from academic capstones to standalone utilities:
