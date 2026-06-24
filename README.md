@@ -1,13 +1,36 @@
+<p align="left">
+  <a href="https://github.com/rewisPage">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=263759&width=435&lines=Student+%26+Software+Developer;System+Architecture+Enthusiast;Desktop+%26+Mobile+App+Builder" alt="Typing SVG" />
+  </a>
+</p>
+
 # Hi, I'm Ariel Alberto Jr.! 👋
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FrewisPage&countColor=%23263759&style=flat)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rewisPage&show_icons=true&theme=transparent&hide_border=true&title_color=263759&icon_color=263759" alt="rewisPage's GitHub Stats" />
+</p>
+
 I am a student and software developer from the Philippines, passionate about building robust desktop and mobile applications. I enjoy tackling system architecture, from designing logical data flows for inventory management to implementing UI libraries that enhance user experience.
 
 ## 💻 My Tech Stack
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rewisPage&layout=compact&theme=transparent&hide_border=true&title_color=263759" alt="Top Languages" />
+</p>
+
 I focus on building functional, maintainable software. My core tools include:
 *   **Languages:** Java, C#, HTML, CSS, JavaScript, SQL
 *   **Frameworks & Tools:** .NET (WinForms), Flutter, SQL Server Management Studio (SSMS), Firebase, Android Studio
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+</p>
 
 ## 🚀 Featured Projects
 
@@ -57,6 +80,10 @@ Outside of coding, I spend a lot of time researching PC hardware. I prioritize p
 
 ## 🎓 Mentoring & Growth
 Programming is best learned by doing and sharing. I actively mentor junior students, guiding them through the fundamentals of procedural logic, object-oriented concepts, and academic project planning. I believe in helping others navigate the challenges of computer science studies while keeping the code clean and the architecture logical.
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rewisPage&theme=transparent&hide_border=true&ring=263759&fire=263759&currStreakNum=263759" alt="GitHub Streak" />
+</p>
 
 ---
 
