@@ -4,18 +4,18 @@
 
 I am a student and software developer from the Philippines, passionate about building robust desktop and mobile applications. I enjoy tackling system architecture, from designing logical data flows for inventory management to implementing UI libraries that enhance user experience.
 
-### 💻 My Tech Stack
+## 💻 My Tech Stack
 I focus on building functional, maintainable software. My core tools include:
 *   **Languages:** Java, C#, HTML, CSS, JavaScript, SQL
 *   **Frameworks & Tools:** .NET (WinForms), Flutter, SQL Server Management Studio (SSMS), Firebase, Android Studio
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
 Here is a look at my recent major projects, showcasing my focus on system architecture, logical data flow, and user experience:
 
 ---
 
-#### 🛒 [Integrated Sales and Inventory Management System (SJ PC Store)](https://github.com/rewisPage/SJ-PC-Store-SIMS)
+### 🛒 [Integrated Sales and Inventory Management System (SJ PC Store)](https://github.com/rewisPage/SJ-PC-Store-SIMS)
 > **Overview:** A robust C#-based Windows application engineered to streamline business operations for SJ PC Store. This system modernizes daily workflows with a strong emphasis on precise data flow, deeply structured Entity-Relationship mapping, and real-time inventory tracking to ensure accurate data management.
 > 
 > **Tech Stack:** C#, .NET (WinForms), SQL Server Management Studio
@@ -33,7 +33,7 @@ Here is a look at my recent major projects, showcasing my focus on system archit
 
 ---
 
-#### ⚔️ [Battle Hangpies](https://github.com/rewisPage/Battle-Hangpies)
+### ⚔️ [Battle Hangpies](https://github.com/rewisPage/Battle-Hangpies)
 > **Overview:** A dynamic Java-based mini-capstone project that uniquely merges a text-console business management system with a graphical (GUI) word-guessing battle game. Built from the ground up, this system serves as a practical implementation of core Object-Oriented Programming (OOP) concepts, Data Structures and Algorithms (DSA), and flat text-file data persistence utilizing Java AWT.
 > 
 > **Tech Stack:** Java, Java AWT
@@ -52,10 +52,10 @@ Here is a look at my recent major projects, showcasing my focus on system archit
 
 ---
 
-### 🛠️ Hardware Philosophy
+## 🛠️ Hardware Philosophy
 Outside of coding, I spend a lot of time researching PC hardware. I prioritize performance and system longevity—I am a strong advocate for high-airflow setups over RGB aesthetics and believe in investing in upgradeable platforms like AM5 to ensure my development rig stays relevant for years to come.
 
-### 🎓 Mentoring & Growth
+## 🎓 Mentoring & Growth
 Programming is best learned by doing and sharing. I actively mentor junior students, guiding them through the fundamentals of procedural logic, object-oriented concepts, and academic project planning. I believe in helping others navigate the challenges of computer science studies while keeping the code clean and the architecture logical.
 
 ---
