@@ -22,8 +22,10 @@ Here is a look at my recent major projects, showcasing my focus on system archit
 > 
 > **👨‍💻 Developers:** 
 > * [@rewisPage](https://github.com/rewisPage) - Lead Developer / System Architect
-> * [@GitHubUsername1](https://github.com/GitHubUsername1) - [Insert Role, e.g., UI/UX Designer]
-> * [@GitHubUsername2](https://github.com/GitHubUsername2) - [Insert Role, e.g., Database Administrator]
+> * [@n4viii](https://github.com/n4viii) - System Tester
+> * [@howi533](https://github.com/howi533) - System Tester
+> * [@ivanclemente2525-source](https://github.com/ivanclemente2525-source) - Document Scriptwriter
+> * [@seigbertruizroxas](https://github.com/seigbertruizroxas) - Document Scriptwriter
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/54b5cfd5-e0e1-45e6-a5d5-3b0d9ac20ac7" width="85%" alt="SJ PC Store SIMS Interface">
