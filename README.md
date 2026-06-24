@@ -39,8 +39,10 @@ Here is a look at my recent major projects, showcasing my focus on system archit
 > **Tech Stack:** Java, Java AWT
 > 
 > **👨‍💻 Developers:** 
-> * [@rewisPage](https://github.com/rewisPage) - Lead Developer
-> * [@GitHubUsername3](https://github.com/GitHubUsername3) - [Insert Role, e.g., Game Logic Programmer]
+> * [@rewisPage](https://github.com/rewisPage) - System Architect / Console Logic Programmer
+> * [@ImNatHarvey](https://github.com/ImNatHarvey) - App Developer / Game Logic Programmer
+> * [@n4viii](https://github.com/n4viii) - UI Designer / System Tester
+> * [@xtyannn](https://github.com/xtyannn) - UI Designer / System Tester
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/25f909b3-d283-4d33-96e7-422a35684377" width="48%" alt="Battle Hangpies Game UI">
