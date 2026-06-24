@@ -27,7 +27,7 @@ I focus on building functional, maintainable software. My core tools include:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rewisPage&layout=compact&theme=github_dark" alt="Top Languages" width="90% />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rewisPage&layout=compact&theme=github_dark" alt="Top Languages" width="60% />
 </p>
 
 ## 🚀 Featured Projects
