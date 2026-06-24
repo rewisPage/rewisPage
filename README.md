@@ -15,9 +15,6 @@ I am a student and software developer from the Philippines, passionate about bui
 </p>
 
 ## 💻 My Tech Stack
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rewisPage&layout=compact&theme=transparent&hide_border=true&title_color=263759" alt="Top Languages" />
-</p>
 
 I focus on building functional, maintainable software. My core tools include:
 *   **Languages:** Java, C#, HTML, CSS, JavaScript, SQL
@@ -30,6 +27,10 @@ I focus on building functional, maintainable software. My core tools include:
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rewisPage&layout=compact&theme=transparent&hide_border=true&title_color=263759" alt="Top Languages" />
 </p>
 
 ## 🚀 Featured Projects
