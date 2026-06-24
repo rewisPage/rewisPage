@@ -5,7 +5,7 @@
 I am a student and software developer from the Philippines, passionate about building robust desktop and mobile applications. I enjoy tackling system architecture, from designing logical data flows for inventory management to implementing UI libraries that enhance user experience.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rewisPage&show_icons=true&theme=github_dark" alt="rewisPage's GitHub Stats" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rewisPage&show_icons=true&theme=github_dark" alt="rewisPage's GitHub Stats" width="90%" />
 </p>
 
 ## 💻 My Tech Stack
@@ -27,7 +27,7 @@ I focus on building functional, maintainable software. My core tools include:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rewisPage&layout=compact&theme=github_dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rewisPage&layout=compact&theme=github_dark" alt="Top Languages" width="90% />
 </p>
 
 ## 🚀 Featured Projects
