@@ -2,25 +2,51 @@
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FrewisPage&countColor=%23263759&style=flat)
 
-I am a student and software developer from Philippines, passionate about building robust desktop and mobile applications. I enjoy tackling system architecture, from designing logical data flows for inventory management to implementing UI libraries that enhance user experience.
+I am a student and software developer from the Philippines, passionate about building robust desktop and mobile applications. I enjoy tackling system architecture, from designing logical data flows for inventory management to implementing UI libraries that enhance user experience.
 
 ### 💻 My Tech Stack
 I focus on building functional, maintainable software. My core tools include:
-*   **Languages:** Java, C#, HTML, CSS, Javascript, SQL
+*   **Languages:** Java, C#, HTML, CSS, JavaScript, SQL
 *   **Frameworks & Tools:** .NET (WinForms), Flutter, SQL Server Management Studio (SSMS), Firebase, Android Studio
 
 ### 🚀 Featured Projects
-I've spent the last year working on a variety of projects, ranging from academic capstones to standalone utilities:
 
-*   **Integrated Sales and Inventory Management System (SJ PC Store):** A C#-based system designed to streamline business operations with a focus on data flow and entity-relationship management.
+Here is a look at my recent major projects, showcasing my focus on system architecture, logical data flow, and user experience:
 
-![Image](https://github.com/user-attachments/assets/54b5cfd5-e0e1-45e6-a5d5-3b0d9ac20ac7)
+---
 
-*   **Battle Hangpies:** A Java-based mini-capstone project developed as an integrated text-console business management system combined with a graphical user interface (GUI) word-guessing battle game. The system is designed to showcase core competencies in Object-Oriented Programming (OOP) concepts, fundamental Data Structures and Algorithms (DSA), and flat text-file data persistence.
+#### 🛒 [Integrated Sales and Inventory Management System (SJ PC Store)](https://github.com/rewisPage/SJ-PC-Store-SIMS)
+> **Overview:** A robust C#-based Windows application engineered to streamline business operations for SJ PC Store. This system modernizes daily workflows with a strong emphasis on precise data flow, deeply structured Entity-Relationship mapping, and real-time inventory tracking to ensure accurate data management.
+> 
+> **Tech Stack:** C#, .NET (WinForms), SQL Server Management Studio
+> 
+> **👨‍💻 Developers:** 
+> * [@rewisPage](https://github.com/rewisPage) - Lead Developer / System Architect
+> * [@GitHubUsername1](https://github.com/GitHubUsername1) - [Insert Role, e.g., UI/UX Designer]
+> * [@GitHubUsername2](https://github.com/GitHubUsername2) - [Insert Role, e.g., Database Administrator]
 
-![Image3](https://github.com/user-attachments/assets/25f909b3-d283-4d33-96e7-422a35684377)
-  
-![Image2](https://github.com/user-attachments/assets/bba96871-05f0-41fc-8fbe-d91295f72e33)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/54b5cfd5-e0e1-45e6-a5d5-3b0d9ac20ac7" width="85%" alt="SJ PC Store SIMS Interface">
+</p>
+
+---
+
+#### ⚔️ [Battle Hangpies](https://github.com/rewisPage/Battle-Hangpies)
+> **Overview:** A dynamic Java-based mini-capstone project that uniquely merges a text-console business management system with a graphical (GUI) word-guessing battle game. Built from the ground up, this system serves as a practical implementation of core Object-Oriented Programming (OOP) concepts, Data Structures and Algorithms (DSA), and flat text-file data persistence utilizing Java AWT.
+> 
+> **Tech Stack:** Java, Java AWT
+> 
+> **👨‍💻 Developers:** 
+> * [@rewisPage](https://github.com/rewisPage) - Lead Developer
+> * [@GitHubUsername3](https://github.com/GitHubUsername3) - [Insert Role, e.g., Game Logic Programmer]
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/25f909b3-d283-4d33-96e7-422a35684377" width="48%" alt="Battle Hangpies Game UI">
+  &nbsp;
+  <img src="https://github.com/user-attachments/assets/bba96871-05f0-41fc-8fbe-d91295f72e33" width="48%" alt="Battle Hangpies Console/System">
+</p>
+
+---
 
 ### 🛠️ Hardware Philosophy
 Outside of coding, I spend a lot of time researching PC hardware. I prioritize performance and system longevity—I am a strong advocate for high-airflow setups over RGB aesthetics and believe in investing in upgradeable platforms like AM5 to ensure my development rig stays relevant for years to come.
