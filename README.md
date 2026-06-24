@@ -18,7 +18,7 @@ I focus on building functional, maintainable software. My core tools include:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rewisPage&layout=compact&theme=github_dark" alt="Top Languages" width="50%" />
 </p>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
