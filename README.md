@@ -26,10 +26,6 @@ I focus on building functional, maintainable software. My core tools include:
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rewisPage&layout=compact&theme=github_dark" alt="Top Languages" width="60% />
-</p>
-
 ## 🚀 Featured Projects
 
 Here is a look at my recent major projects, showcasing my focus on system architecture, logical data flow, and user experience:
