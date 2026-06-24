@@ -28,7 +28,7 @@ Here is a look at my recent major projects, showcasing my focus on system archit
 > * [@seigbertruizroxas](https://github.com/seigbertruizroxas) - Document Scriptwriter
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/54b5cfd5-e0e1-45e6-a5d5-3b0d9ac20ac7" width="85%" alt="SJ PC Store SIMS Interface">
+  <img src="https://github.com/user-attachments/assets/54b5cfd5-e0e1-45e6-a5d5-3b0d9ac20ac7" width="100%" alt="SJ PC Store SIMS Interface">
 </p>
 
 ---
