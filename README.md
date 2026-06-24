@@ -4,7 +4,7 @@
 
 I am a student and software developer from the Philippines, passionate about building robust desktop and mobile applications. I enjoy tackling system architecture, from designing logical data flows for inventory management to implementing UI libraries that enhance user experience.
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=rewisPage&show_icons=true&theme=github_dark" alt="rewisPage's GitHub Stats" />
 </p>
 
