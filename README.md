@@ -1,9 +1,3 @@
-<p align="left">
-  <a href="https://github.com/rewisPage">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=263759&width=435&lines=Student+%26+Software+Developer;System+Architecture+Enthusiast;Desktop+%26+Mobile+App+Builder" alt="Typing SVG" />
-  </a>
-</p>
-
 # Hi, I'm Ariel Alberto Jr.! 👋
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FrewisPage&countColor=%23263759&style=flat)
