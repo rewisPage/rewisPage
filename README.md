@@ -36,7 +36,7 @@ Here is a look at my recent major projects, showcasing my focus on system archit
 
 ---
 
-# 🛒 [Integrated Sales and Inventory Management System (SJ PC Store)](https://github.com/rewisPage/SJ-PC-Store-SIMS)
+## 🛒 [Integrated Sales and Inventory Management System (SJ PC Store)](https://github.com/rewisPage/SJ-PC-Store-SIMS)
 > **Overview:** A robust C#-based Windows application engineered to streamline business operations for SJ PC Store. This system modernizes daily workflows with a strong emphasis on precise data flow, deeply structured Entity-Relationship mapping, and real-time inventory tracking to ensure accurate data management.
 > 
 > **Tech Stack:** C#, .NET (WinForms), SQL Server Management Studio
@@ -54,7 +54,7 @@ Here is a look at my recent major projects, showcasing my focus on system archit
 
 ---
 
-# ⚔️ [Battle Hangpies](https://github.com/rewisPage/Battle-Hangpies)
+## ⚔️ [Battle Hangpies](https://github.com/rewisPage/Battle-Hangpies)
 > **Overview:** A dynamic Java-based mini-capstone project that uniquely merges a text-console business management system with a graphical (GUI) word-guessing battle game. Built from the ground up, this system serves as a practical implementation of core Object-Oriented Programming (OOP) concepts, Data Structures and Algorithms (DSA), and flat text-file data persistence utilizing Java AWT.
 > 
 > **Tech Stack:** Java, Java AWT
