@@ -14,6 +14,10 @@ I focus on building functional, maintainable software. My core tools include:
 *   **Languages:** Java, C#, HTML, CSS, JavaScript, SQL
 *   **Frameworks & Tools:** .NET (WinForms), Flutter, SQL Server Management Studio (SSMS), Firebase, Android Studio
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rewisPage&layout=compact&theme=github_dark" alt="Top Languages" width="100%" />
+</p>
+
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
