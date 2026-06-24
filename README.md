@@ -8,11 +8,11 @@
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FrewisPage&countColor=%23263759&style=flat)
 
+I am a student and software developer from the Philippines, passionate about building robust desktop and mobile applications. I enjoy tackling system architecture, from designing logical data flows for inventory management to implementing UI libraries that enhance user experience.
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rewisPage&show_icons=true&theme=transparent&hide_border=true&title_color=263759&icon_color=263759" alt="rewisPage's GitHub Stats" />
 </p>
-
-I am a student and software developer from the Philippines, passionate about building robust desktop and mobile applications. I enjoy tackling system architecture, from designing logical data flows for inventory management to implementing UI libraries that enhance user experience.
 
 ## 💻 My Tech Stack
 <p align="center">
