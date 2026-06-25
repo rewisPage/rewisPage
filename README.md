@@ -1,6 +1,6 @@
-# ⭐ Profile Information
-
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FrewisPage&countColor=%23263759&style=flat)
+
+# ⭐ Profile Information
 
 I am a student and software developer from the Philippines, passionate about building robust desktop and mobile applications. I enjoy tackling system architecture, from designing logical data flows for inventory management to implementing UI libraries that enhance user experience.
 
