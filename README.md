@@ -4,19 +4,11 @@
 
 I am a student and software developer from the Philippines, passionate about building robust desktop and mobile applications. I enjoy tackling system architecture, from designing logical data flows for inventory management to implementing UI libraries that enhance user experience.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rewisPage&show_icons=true&theme=github_dark" alt="rewisPage's GitHub Stats" width="90%" />
-</p>
-
 ## 💻 My Tech Stack
 
 I focus on building functional, maintainable software. My core tools include:
 *   **Languages:** Java, C#, HTML, CSS, JavaScript, SQL
 *   **Frameworks & Tools:** .NET (WinForms), Flutter, SQL Server Management Studio (SSMS), Firebase, Android Studio
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rewisPage&layout=compact&theme=github_dark" alt="Top Languages" width="50%" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
@@ -28,6 +20,10 @@ I focus on building functional, maintainable software. My core tools include:
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rewisPage&layout=compact&theme=github_dark" alt="Top Languages" width="50%" />
 </p>
 
 ## 🚀 Featured Projects
@@ -69,6 +65,12 @@ Here is a look at my recent major projects, showcasing my focus on system archit
   <img src="https://github.com/user-attachments/assets/25f909b3-d283-4d33-96e7-422a35684377" width="48%" alt="Battle Hangpies Game UI">
   &nbsp;
   <img src="https://github.com/user-attachments/assets/bba96871-05f0-41fc-8fbe-d91295f72e33" width="48%" alt="Battle Hangpies Console/System">
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rewisPage&show_icons=true&theme=github_dark" alt="rewisPage's GitHub Stats" width="90%" />
 </p>
 
 ---
