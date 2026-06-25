@@ -1,8 +1,8 @@
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FrewisPage&countColor=%23263759&style=flat)
-
 # ⭐ Profile Information
 
 I am a student and software developer from the Philippines, passionate about building robust desktop and mobile applications. I enjoy tackling system architecture, from designing logical data flows for inventory management to implementing UI libraries that enhance user experience.
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FrewisPage&countColor=%23263759&style=flat)
 
 ## 💻 My Tech Stack
 
@@ -70,7 +70,7 @@ Here is a look at my recent major projects, showcasing my focus on system archit
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rewisPage&show_icons=true&theme=github_dark" alt="rewisPage's GitHub Stats" width="90%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rewisPage&show_icons=true&theme=github_dark" alt="rewisPage's GitHub Stats" width="80%" />
 </p>
 
 ---
@@ -82,7 +82,7 @@ Outside of coding, I spend a lot of time researching PC hardware. I prioritize p
 Programming is best learned by doing and sharing. I actively mentor junior students, guiding them through the fundamentals of procedural logic, object-oriented concepts, and academic project planning. I believe in helping others navigate the challenges of computer science studies while keeping the code clean and the architecture logical.
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rewisPage&theme=github-dark" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=rewisPage&theme=github-dark" alt="GitHub Streak" width="70%" />
 </p>
 
 ---
