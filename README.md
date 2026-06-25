@@ -10,7 +10,24 @@ I focus on building functional, maintainable software. My core tools include:
 *   **Languages:** Java, C#, HTML, CSS, JavaScript, SQL
 *   **Frameworks & Tools:** .NET (WinForms), Flutter, SQL Server Management Studio (SSMS), Firebase, Android Studio
 
-<p align="center"> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dotnet" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a></p>
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a>
+  <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> 
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rewisPage&layout=compact&theme=github_dark" alt="Top Languages" width="50%" />
