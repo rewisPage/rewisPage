@@ -74,9 +74,6 @@ Here is a look at my recent major projects, showcasing my focus on system archit
 
 ---
 
-<p align="center"> <img src="https://github-stats-extended.vercel.app/api?username=rewisPage&show_icons=true&theme=github_dark" alt="rewisPage's GitHub Stats" width="80%" /> </p>
-
----
 
 ## 🛠️ Hardware Philosophy
 Outside of coding, I spend a lot of time researching PC hardware. I prioritize performance and system longevity—I am a strong advocate for high-airflow setups over RGB aesthetics and believe in investing in upgradeable platforms like AM5 to ensure my development rig stays relevant for years to come.
@@ -84,7 +81,8 @@ Outside of coding, I spend a lot of time researching PC hardware. I prioritize p
 ## 🎓 Mentoring & Growth
 Programming is best learned by doing and sharing. I actively mentor junior students, guiding them through the fundamentals of procedural logic, object-oriented concepts, and academic project planning. I believe in helping others navigate the challenges of computer science studies while keeping the code clean and the architecture logical.
 
-<p align="center"> <img src="./profile/streak.svg" alt="GitHub Streak" width="70%" /> </p>
+<p align="center"> <img src="https://github-stats-extended.vercel.app/api?username=rewisPage&show_icons=true&theme=github_dark" alt="rewisPage's GitHub Stats" width="80%" /> </p>
+
 ---
 
 ### 📫 How to reach me
