@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="1584" height="396" alt="linkedin-background" src="https://github.com/user-attachments/assets/33e61085-ba80-435d-9e71-7410bbca3f88" />
+</p>
+
 # ⭐ Profile Information
 
 I am a student and software developer from the Philippines, passionate about building robust desktop and mobile applications. I enjoy tackling system architecture, from designing logical data flows for inventory management to implementing UI libraries that enhance user experience.
