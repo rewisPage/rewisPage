@@ -93,5 +93,3 @@ Programming is best learned by doing and sharing. I actively mentor junior stude
 *   **GitHub:** [github.com/rewisPage](https://github.com/rewisPage)
 *   **Linkedin** [linkedin.com/arielalberto](https://www.linkedin.com/in/arielalberto/)
 *   **Focus:** Always learning and looking for new challenges in software development.
-
-End
